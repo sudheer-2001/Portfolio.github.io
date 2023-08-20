@@ -71,6 +71,12 @@ marquee .one{
 	display: flex;
 	margin-left: 350px;
 }
+.inner1 a:link{
+	color: darkblue;
+}
+.inner1 a:hover{
+	color: red;
+}
 #A{
 	position: relative;
 	bottom: 5px;
@@ -90,6 +96,12 @@ marquee .one{
 .inner2{
 	display: flex;
 	margin-left: 550px;
+}
+.inner2 a:link{
+	color: darkblue;
+}
+.inner2 a:hover{
+	color: red;
 }
 #about{
 	margin-top: 5%;
